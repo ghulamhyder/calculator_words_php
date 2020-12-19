@@ -47,7 +47,7 @@
 
 $obj=new Calculator();
 echo $obj->twoPlusFour()."\n";
-echo $obj->twoPlusSixPlusNine()."\n";
+echo $obj->threePlusEight()."\n";
 
 
 
